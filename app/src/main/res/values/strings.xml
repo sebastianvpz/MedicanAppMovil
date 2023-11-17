@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">VeterinariaProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="valUser">Ingrese su email</string>
+    <string name="valPassword" />
+    <string name="valpass">Ingrese su contraseña</string>
+    <string name="valLog">INGRESAR</string>
+    <string name="valReg">REGISTRARTE</string>
+    <string name="valTitMascotas">MASCOTAS</string>
+    <string name="valTitCitas">CITAS</string>
+    <string name="valAgreMascotas">Agregar Mascota</string>
+    <string name="valbutnModificar">MODIFICAR</string>
+    <string name="valRegistrar">REGISTRO</string>
+    <string name="valRegNom">Ingrese su nombre</string>
+    <string name="vaLREGaP">Ingrese sus apellidos</string>
+    <string name="valDNi">Ingrese su DNI</string>
+    <string name="valNumero">Ingrese su numero</string>
+    <string name="valDirec">Ingrese su direccion</string>
+    <string name="valCorreo">Ingrese su correo</string>
+    <string name="valcontrasena">Ingrese su Contraseña</string>
+    <string name="valbtnReg">Registrarse</string>
+    <string name="valRESERVA">Reservar Cita</string>
+    <string name="valBtnReserv">Reservar</string>
+</resources>
