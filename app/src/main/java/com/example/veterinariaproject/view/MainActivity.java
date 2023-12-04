@@ -1,9 +1,10 @@
-package com.example.veterinariaproject;
+package com.example.veterinariaproject.view;
 
 import android.os.Bundle;
 import android.view.View;
 import android.view.Menu;
 
+import com.example.veterinariaproject.R;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 
@@ -41,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow)
+                R.id.servicioFragment, R.id.medicosFragment, R.id.historialFragment)
                 .setOpenableLayout(drawer)
                 .build();
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);

@@ -41,4 +41,11 @@
     <string name="valbtnReg">Registrarse</string>
     <string name="valRESERVA">Reservar Cita</string>
     <string name="valBtnReserv">Reservar</string>
+    <string name="valNavServicios">SERVICIOS</string>
+    <string name="valNavMedicos">MEDICOS</string>
+    <string name="valNavHistorial" />
+    <string name="valNavReserva">RESERVAR CITA</string>
+    <string name="valnavMascotas">MASCOTAS</string>
+    <string name="valNavPerfil">PERFIL</string>
+    <string name="valNavHistory">HISTORIAL CONSULTAS</string>
 </resources>

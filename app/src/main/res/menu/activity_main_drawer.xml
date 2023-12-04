@@ -5,16 +5,28 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:id="@+id/servicioFragment"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/valNavServicios" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/medicosFragment"
+            android:icon="@drawable/baseline_medical_services_24"
+            android:title="@string/valNavMedicos" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/historialFragment"
+            android:icon="@drawable/baseline_history_toggle_off_24"
+            android:title="@string/valNavHistory" />
+        <item
+            android:id="@+id/mascotasFragment"
+            android:icon="@drawable/baseline_pets_24"
+            android:title="@string/valnavMascotas" />
+        <item
+            android:id="@+id/perfilFragment"
+            android:icon="@drawable/baseline_person_24"
+            android:title="@string/valNavPerfil" />
+        <item
+            android:id="@+id/reservaFragment"
+            android:icon="@drawable/baseline_bookmark_added_24"
+            android:title="@string/valNavReserva" />
     </group>
 </menu>
